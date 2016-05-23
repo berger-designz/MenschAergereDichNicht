@@ -1,0 +1,11 @@
+package Game;
+
+public class StartGame 
+{
+	
+	public void printStart()
+	{
+		System.out.println("TestHallo");
+	}
+	
+}

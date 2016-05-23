@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Stack"/>
+<fullyQualifiedTypeName name="javafx.fxml.FXMLLoader"/>
+<fullyQualifiedTypeName name="javafx.scene.layout.BorderPane"/>
+<fullyQualifiedTypeName name="javafx.scene.Scene"/>
+<fullyQualifiedTypeName name="Game_GUI.GUI_Primary"/>
+<fullyQualifiedTypeName name="javafx.scene.control.Label"/>
+<fullyQualifiedTypeName name="javafx.scene.control.Button"/>
+<fullyQualifiedTypeName name="javafx.scene.control.ListView"/>
+<fullyQualifiedTypeName name="javafx.scene.image.Image"/>
+<fullyQualifiedTypeName name="javafx.scene.image.ImageView"/>
+<fullyQualifiedTypeName name="javafx.scene.paint.Color"/>
+<fullyQualifiedTypeName name="javafx.scene.text.Font"/>
+<fullyQualifiedTypeName name="javafx.scene.text.FontWeight"/>
+<fullyQualifiedTypeName name="javafx.collections.FXCollections"/>
+<fullyQualifiedTypeName name="javafx.collections.ObservableList"/>
+<fullyQualifiedTypeName name="javafx.scene.layout.HBox"/>
+<fullyQualifiedTypeName name="javafx.geometry.Insets"/>
+<fullyQualifiedTypeName name="javafx.event.EventHandler"/>
+<fullyQualifiedTypeName name="javafx.application.Platform"/>
+<fullyQualifiedTypeName name="javafx.stage.WindowEvent"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+</qualifiedTypeNameHistroy>

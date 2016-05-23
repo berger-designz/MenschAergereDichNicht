@@ -1,0 +1,18 @@
+package Game;
+
+import Game_GUI.GUI_Primary;
+
+public class Game_Mensch 
+{
+
+	public static void main(String[] args) 
+	{
+		StartGame s = new StartGame();
+		
+		GUI_Primary gui = new  GUI_Primary();
+		
+		gui.launch();
+
+	}
+
+}

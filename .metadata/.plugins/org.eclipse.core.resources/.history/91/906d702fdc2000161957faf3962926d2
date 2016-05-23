@@ -1,0 +1,12 @@
+package Game;
+
+public class StartGame 
+{
+	
+	public void StartGame()
+	{
+		System.out.println("Game started");
+	}
+	
+	
+}

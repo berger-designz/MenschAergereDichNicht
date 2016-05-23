@@ -1,0 +1,14 @@
+package Game_GUI;
+
+import javafx.application.Application;
+
+public class GUI_Primary{
+	
+	
+    public void start(Stack primaryStage) {
+        primaryStage.setTitle("JavaFX Welcome");
+        
+        primaryStage.show();
+    }
+
+}
