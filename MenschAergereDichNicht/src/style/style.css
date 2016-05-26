@@ -3,15 +3,29 @@
 }
 
 .button {
-	-fx-background-color: #AA3344;
+	//-fx-background-color: #AA3344;
+	-fx-background-color: linear-gradient(#AA6666, #AAAAAA);
 	-fx-text-fill: #FFFFFF;
-	-fx-border-radius: 5;
+	-fx-background-radius: 8,7,6;
+    -fx-background-insets: 0,1,2;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,3) , 5, 0.0 , 0 , 1 );
+    -fx-font-size:12;
+}
+
+.button_test {
+	//-fx-background-color: #AA3344;
+	-fx-background-color: linear-gradient(#AA6666, #AAAAAA);
+	-fx-text-fill: #FFFFFF;
+	-fx-background-radius: 8,7,6;
+    -fx-background-insets: 0,1,2;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,3) , 5, 0.0 , 0 , 1 );
+    //-fx-font-size:25;
+    -fx-font: bold 17pt "Comic Sans MS"; 
 }
 
 .button:hover {
-	-fx-background-color: linear-gradient(#AAAAAA, #AA3344);
+	-fx-background-color: linear-gradient(#AA3344, #AAAAAA);
 	-fx-text-fill: #FFFFFF;
-	-fx-border-radius: 5;
 }
 
 .button:pressed {
